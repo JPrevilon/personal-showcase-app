@@ -1,0 +1,26 @@
+{
+  "store_info": [
+    {
+      "id": 1,
+      "name": "FREEPOWER Supply",
+      "description": "Premium streetwear built for resilience.",
+      "phone_number": "555-5555"
+    }
+  ],
+  "products": [
+    {
+      "id": 2,
+      "name": "FREEPOWER Tee",
+      "description": "Minimalist design with bold presence.",
+      "origin": "USA",
+      "price": 35
+    },
+    {
+      "name": "Love Is Forever T-Shirt",
+      "description": "More Than The Expected !",
+      "origin": "Florida",
+      "price": 95,
+      "id": 3
+    }
+  ]
+}
